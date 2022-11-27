@@ -1,0 +1,7 @@
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\obj\Debug\ProjetoObrigatorioFinal.csprojAssemblyReference.cache
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\obj\Debug\ProjetoObrigatorioFinal.csproj.CoreCompileInputs.cache
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\bin\Debug\ProjetoObrigatorioFinal.exe.config
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\bin\Debug\ProjetoObrigatorioFinal.exe
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\bin\Debug\ProjetoObrigatorioFinal.pdb
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\obj\Debug\ProjetoObrigatorioFinal.exe
+D:\ProjetoObrigatorioFinal\ProjetoObrigatorioFinal\obj\Debug\ProjetoObrigatorioFinal.pdb
